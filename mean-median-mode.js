@@ -24,7 +24,7 @@ function median (numbers) {
 }
 
 function modes (numbers) {
-	var counter = [];
+    var counter = [];
     var mode = [];
     var max = 0;
     for (var i in numbers) {
